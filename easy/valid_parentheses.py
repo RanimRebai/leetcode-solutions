@@ -1,3 +1,5 @@
+# Beats 83.81% in memory
+
 class Solution(object):
     def isValid(self, s):
         """
