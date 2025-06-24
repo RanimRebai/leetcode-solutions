@@ -7,6 +7,8 @@ This repo contains my Python solutionq to LeetCode challenges. 🧠
 -[x] Two Sum
 -[x] Palindrome Number
 -[x] longest common prefix
+-[x] majority element
+-[x] length of last word
 
 ## ✔️ NOTES
 I am currently solving problems at my own pace. Follow along or clone if you're interested ;))
